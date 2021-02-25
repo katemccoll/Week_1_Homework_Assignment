@@ -51,3 +51,6 @@ Currently the title is "Website", changing this to have a more descriptive title
 ## Footer: 
 Line 83: Change div to footer. Have taken out the class then removed the period from both footer codes in CSS. Have made them into an element selector.
 Saved and Open. Working correctly.
+
+Last minute add sorry!
+I realised as I was looking over code in class, I forgot to add the heading comments in the html.
